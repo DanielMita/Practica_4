@@ -4,6 +4,8 @@
  * Dmita 09/01/2018
  */
 
+// Hola chavales, he aprendido Git y GitHub yo solo con la ayuda de Youtube, sin necesidad de profesor. 
+
 public class Ejercicio_1 {
 
 	public static void main(String[] args) {
